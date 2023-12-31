@@ -2,7 +2,7 @@
 
 ## 🎨 Resultado
 
-- O resultado pode ser conferido aqui: [**CodePen**](https://codepen.io/dev-araujo/full/PoORKEJ)
+- O resultado pode ser conferido [**aqui**](https://survey-form-tawny-eta.vercel.app/)
 
 ![form](https://user-images.githubusercontent.com/97068163/157268626-f33937d2-99df-4302-998f-011fb4fb3a07.png)
 
